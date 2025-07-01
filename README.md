@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srushti</h1>
-- 🌱 I’m currently learning **DSA, OOP**
+- 🌱 I’m currently learning DSA, OOP
 
-- 💬 Ask me about **C++**
+- 💬 Ask me about C++
 
 - 📫 How to reach me **srushtipekamwar@gmail.com**
 
